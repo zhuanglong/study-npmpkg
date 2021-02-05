@@ -143,5 +143,6 @@ package.json 新增 `"repository"`，
 ## 参考
 
 - [NPM包（模块）发布、更新、撤销发布](https://juejin.cn/post/6844903769365282829)
-- [一文搞定 npm 包发布与管理](https://juejin.cn/post/6920231981834108942)
 - [npm包 搭建，打包，调试，发布](https://juejin.cn/post/6871591252417216520)
+- [npm发布包教程（五）：废弃/删除](https://segmentfault.com/a/1190000017479985)
+- [探讨npm依赖管理之peerDependencies](https://www.cnblogs.com/wonyun/p/9692476.html)
